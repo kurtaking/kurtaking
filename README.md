@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kurtaking
-- 👀 I’m interested in Full Stack Development, React, Ruby on Rails NodeJS
-- 🌱 I’m currently learning React + NodeJS
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Node.js, React, & Next.js
 - 💞️ I’m looking to collaborate on smaller open source projects
 
 <!---
