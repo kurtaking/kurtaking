@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kurtaking
+👋 Hi, I’m @kurtaking
 
 <!---
 kurtaking/kurtaking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
